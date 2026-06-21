@@ -1,0 +1,59 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#my-navbar {
+    background-color: #000000;
+}
+#my-navbar h3{
+    color: rgb(49, 33, 228);
+}
+#nav-links{
+    margin: left 0;
+
+    
+}
+#nav-links .nav-link{
+    color: rgb(255, 255, 255);
+}
+.navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+}
+/* #hero {
+    height: 50vh;
+    background-image: url("https://static.photos/blue/200x200/128.webp");
+    background-size: cover;
+    
+} */
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 50%;
+}
+
+.hero-content h4 {
+    font-size: 3rem;
+}
+#project-image{
+    height: 150px;
+    width: 100%;
+    border-radius: 0;
+}
+.card{
+    overflow: hidden;
+}
+/* #contact {
+    background-image: linear-gradient(
+        rgba(26, 27, 101, 0.75),
+        rgba(18, 14, 123, 0.75)
+    ),
+    url('https://static.photos/blue/200x200/128.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+} */
+ footer{
+    background-color: #000000;
+ }
